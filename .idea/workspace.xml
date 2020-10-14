@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9448b5c8-b0fe-4ba9-9baf-e81b0b8d26a1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/messaging-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/MessagingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/MessagingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/controller/UserControllerIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-61">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/SecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messaging-service/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/BlockRepository.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/Message.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/Block.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/MessagingServerService.java" />
+        <option value="$PROJECT_DIR$/messaging-service/pom.xml" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/RegisterUserRequest.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/LoginUserRequest.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/exception/MessagingServiceException.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/DiscountType.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/ResponseStatusType.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/converter/ShoppingCardDtoListConverter.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/dto/MessageListDto.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/dto/MessageDto.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/converter/MessageDtoListConverter.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/MessagingController.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/controller/BaseIT.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/BlockUserRequest.java" />
+        <option value="$PROJECT_DIR$/messaging-service/README.md" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/MessageRepository.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/response/Response.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/controller/UserControllerIT.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/UserRole.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/MessagingService.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/service/MessagingServiceTest.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/User.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/UserService.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/SecurityConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="86" />
+    <option name="y" value="54" />
+    <option name="width" value="778" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="messaging-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="messaging-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602676757830" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CHAT_APPLICATION_IN_JAVA_WITH_SOURCE_CODE" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.5448276" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ezgi\Downloads\messaging-service\messaging-service" />
+      <recent name="C:\Users\Ezgi\Downloads\messaging-service\messaging-service\src\main\java\com\example\messagingservice" />
+      <recent name="C:\Users\Ezgi\Downloads\messaging-service\messaging-service\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.messagingservice.controller" />
+      <recent name="com.example.messagingservice.response" />
+      <recent name="com.example.messagingservice.exception" />
+      <recent name="com.example.messagingservice.repository" />
+      <recent name="com.example.messagingservice.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ezgi\Downloads\messaging-service\messaging-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerIT.should_register_user">
+    <configuration name="UserControllerIT.should_register_user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messaging-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.messagingservice.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.messagingservice.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.messagingservice.controller.UserControllerIT" />
+      <option name="METHOD_NAME" value="should_register_user" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.should_block_user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messaging-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.messagingservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.messagingservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.messagingservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="should_block_user" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.should_login_user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messaging-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.messagingservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.messagingservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.messagingservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="should_login_user" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.should_register_user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messaging-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.messagingservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.messagingservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.messagingservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="should_register_user" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.should_throw_exception_when_password_not_match" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messaging-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.messagingservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.messagingservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.messagingservice.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="should_throw_exception_when_password_not_match" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserServiceTest.should_login_user" />
+      <item itemvalue="JUnit.UserServiceTest.should_throw_exception_when_password_not_match" />
+      <item itemvalue="JUnit.UserServiceTest.should_block_user" />
+      <item itemvalue="JUnit.UserServiceTest.should_register_user" />
+      <item itemvalue="JUnit.UserControllerIT.should_register_user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerIT.should_register_user" />
+        <item itemvalue="JUnit.UserServiceTest.should_register_user" />
+        <item itemvalue="JUnit.UserServiceTest.should_block_user" />
+        <item itemvalue="JUnit.UserServiceTest.should_throw_exception_when_password_not_match" />
+        <item itemvalue="JUnit.UserServiceTest.should_login_user" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9448b5c8-b0fe-4ba9-9baf-e81b0b8d26a1" name="Default Changelist" comment="" />
+      <created>1602501710935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602501710935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 13h 52m 16s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 13h 56m 28s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 01m 50s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 06m 21s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 07m 26s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 13m 37s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 16m 39s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 17m 09s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_should_register_user - 2020.10.14 at 14h 23m 56s.xml">
+      <configuration name="UserServiceTest.should_register_user" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerIT_should_register_user - 2020.10.14 at 14h 54m 41s.xml">
+      <configuration name="UserControllerIT.should_register_user" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3442623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38032788" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3442623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38032788" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Console" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/service/UserServiceTest.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/UserService.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/BlockRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1234#1235#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1320#1321#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1563#1564#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1660#1661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="71" column="36" lean-forward="true" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/MessagingServerService.java" />
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/exception/MessagingServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/DiscountType.java" />
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/ResponseStatusType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/converter/DeliveryCostVoConverter.java" />
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/dto/MessageDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/converter/MessageDtoListConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/controller/BaseIT.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/LoginUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/BlockUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/MessagingServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/MessageRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/enumeration/UserRole.java" />
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/response/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/request/RegisterUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/controller/MessagingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="127" column="32" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/service/MessagingServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/MessagingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/test/java/com/example/messagingservice/controller/UserControllerIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messaging-service/src/main/java/com/example/messagingservice/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>messaging-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5448276" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5448276" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
